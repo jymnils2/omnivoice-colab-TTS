@@ -6,6 +6,7 @@ accelerate>=1.13.0
 pydub>=0.25.1
 soundfile>=0.13.1
 numpy
+scipy
 gradio==5.50.0
 #for subtitle and asr 
 pysrt>=1.1.2
